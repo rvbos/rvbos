@@ -32,5 +32,7 @@
 ---
 
 - [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/)
+- [Space tourism website](https://rvbos.github.io/space-tourism/) - in progress (the navigation doesn't display the proper way on mobiles and the technology tab is not done yet)
+
 
 
