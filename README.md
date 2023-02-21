@@ -1,7 +1,7 @@
 ### Hi, I’m Ola :wave:
 ---
 
-:rocket: I am 3rd year student at SGH Warsaw. I have been passionate about technology in business and web development since 2022, and would like to develop professionally in this direction.
+:rocket: I am a 3rd year student at SGH Warsaw. I have been passionate about technology in business and web development since 2022, and would like to develop professionally in this direction.
 
 :rocket: My previous professional experience consists of: business consulting, sales (in a IT product company) and projects coordination. Now I would like to work on the more technical side.
 
