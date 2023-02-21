@@ -3,7 +3,7 @@
 
 :rocket: I am a 3rd year student at SGH Warsaw. I have been passionate about technology in business and web development since 2022, and I want to develop professionally in this direction.
 
-:rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. Now I would like to work on the more technical side. LinkedIn:  <a href="https://www.linkedin.com/in/aleksandra-rabos/" ><img alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+:rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. Now I would like to work on the more technical side. You can read more here: <a href="https://www.linkedin.com/in/aleksandra-rabos/">LinkedIn</a>.
 
 :rocket: Here are some projects that most reflect my current technical skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions. Currently I am delving into React. 
 
