@@ -1,11 +1,11 @@
 ### Hi, I’m Ola :wave:
 ---
 
-:rocket: I have been passionate about technology in business and web development since 2022, and I want to develop professionally in this direction.
+:rocket: I have been passionate about technology in business and web development since 2022, and I want to develop my career in this direction.
 
 :rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. You can read more on my <a href="https://www.linkedin.com/in/aleksandra-rabos/">LinkedIn</a>. Now I would like to work on the more technical side.
 
-:rocket: My projects posted here relate to astronomy or cycling, as these are my passions. Currently I am delving into React. 
+:rocket: I have strong understanding of HTML, CSS and JavaScript. I am constantly learning. Currently I am delving into React.
 
 :rocket: Technologies and tools I use:
 
@@ -23,16 +23,16 @@
 
 ### My main projects:
 ---
-- []() - in progress
+- []() - in progress, to be posted here soon
 
 
 <br>
 
-### Smaller projects (for training purposes):
+### Other projects (for training purposes):
 ---
 
 - [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/)
-- [Space tourism website](https://rvbos.github.io/space-tourism/) - in progress (the navigation doesn't display the proper way on mobiles and the technology tab is not done yet)
+- [Space Tourism website](https://rvbos.github.io/space-tourism/) - in progress (the navigation doesn't display the proper way on mobiles and the technology tab is not done yet)
 
 
-
+PS. Every project posted here relates to astronomy or cycling, as these are my passions :)
