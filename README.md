@@ -31,5 +31,5 @@
 ### Other projects (for training purposes):
 ---
 
-- [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/)
-- [Space Tourism website](https://rvbos.github.io/space-tourism/)
+- [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/) ([GitHub Repo](https://github.com/rvbos/geolocation-weather-app))
+- [Space Tourism website](https://rvbos.github.io/space-tourism/) ([GitHub Repo](https://github.com/rvbos/space-tourism))
