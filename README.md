@@ -33,6 +33,3 @@
 
 - [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/)
 - [Space Tourism website](https://rvbos.github.io/space-tourism/) - in progress (the navigation doesn't display the proper way on mobiles and the technology tab is not done yet)
-
-
-PS. Every project posted here relates to astronomy or cycling, as these are my passions :)
