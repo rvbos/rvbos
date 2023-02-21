@@ -32,4 +32,4 @@
 ---
 
 - [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/)
-- [Space Tourism website](https://rvbos.github.io/space-tourism/) - in progress (the technology tab is not done yet)
+- [Space Tourism website](https://rvbos.github.io/space-tourism/)
