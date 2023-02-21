@@ -5,7 +5,7 @@
 
 :rocket: My previous professional experience consists of: business consulting, sales (in a IT product company) and projects coordination. Now I would like to work on the more technical side.
 
-:rocket: Here are some projects that most reflect my current technical skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions. I am currently diving deeper into React, I am working on my first project (to be released here soon).
+:rocket: Here are some projects that most reflect my current technical skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions. I am currently diving deeper into React.
           
 :rocket: Technologies and tools I use:
 
