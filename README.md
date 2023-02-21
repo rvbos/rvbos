@@ -1,6 +1,6 @@
 ### Hi, I’m Ola :wave:
 ---
-:rocket: I am studying at SGH Warsaw (3rd year). I am passionate about web development since 2022 and I want to develop my future career into this direction.
+:rocket: I am studying at SGH Warsaw School of Economics (3rd year). I have been passionate about web development since 2022 and would like to develop professionally in this direction.
 
 :rocket: Here are some projects that most reflect my current skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions.
 
