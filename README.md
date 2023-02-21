@@ -1,10 +1,11 @@
 ### Hi, I’m Ola :wave:
 ---
-:rocket: I am studying at SGH Warsaw School of Economics (3rd year). I have been passionate about web development since 2022 and would like to develop professionally in this direction.
 
-:rocket: Here are some projects that most reflect my current skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions.
+:rocket: I am 3rd year student at SGH Warsaw. I have been passionate about technology in business and web development since 2022, and would like to develop professionally in this direction.
 
-:rocket: I am currently diving deeper into React, I am working on my first project (to be released here soon).
+:rocket: My previous professional experience consists of: business consulting, sales (in a IT product company) and projects coordination. Now I would like to work on the more technical side.
+
+:rocket: Here are some projects that most reflect my current technical skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions. I am currently diving deeper into React, I am working on my first project (to be released here soon).
           
 :rocket: Technologies and tools I use:
 
