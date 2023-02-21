@@ -1,11 +1,11 @@
 ### Hi, I’m Ola :wave:
 ---
 
-:rocket: I am a 3rd year student at SGH Warsaw. I have been passionate about technology in business and web development since 2022, and would like to develop professionally in this direction.
+:rocket: I am a 3rd year student at SGH Warsaw. I have been passionate about technology in business and web development since 2022, and I want to develop professionally in this direction.
 
-:rocket: My previous professional experience consists of: business consulting, sales (in a IT product company) and projects coordination. Now I would like to work on the more technical side.
+:rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. Now I would like to work on the more technical side.
 
-:rocket: Here are some projects that most reflect my current technical skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions. I am currently diving deeper into React.
+:rocket: Here are some projects that most reflect my current technical skill level. Each project through the design somehow relates to astronomy or cycling, as these are my passions. I am currently delving into React.
           
 :rocket: Technologies and tools I use:
 
