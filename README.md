@@ -5,7 +5,7 @@
 
 :rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. You can read more on my <a href="https://www.linkedin.com/in/aleksandra-rabos/">LinkedIn</a>. Now I would like to work on the more technical side.
 
-:rocket: I have strong understanding of HTML, CSS and JavaScript. I am constantly learning. Currently I am delving into React.
+:rocket: I have strong understanding of HTML, CSS and JavaScript. I am constantly learning. Currently I am delving into React. I am working on my own projects.
 
 :rocket: Technologies and tools I use:
 
