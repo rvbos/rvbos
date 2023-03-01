@@ -24,6 +24,6 @@
 ### My projects (for training purposes):
 ---
 
-- [Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/) ([GitHub Repo](https://github.com/rvbos/geolocation-weather-app))
-- [Space Tourism website](https://rvbos.github.io/space-tourism/) ([GitHub Repo](https://github.com/rvbos/space-tourism))
-- [My Daily Planner](https://rvbos.github.io/plan-your-day/) ([GitHub Repo](https://github.com/rvbos/plan-your-day))
+- [[LIVE DEMO] Geolocation Weather App](https://rvbos.github.io/geolocation-weather-app/) ([GitHub Repo](https://github.com/rvbos/geolocation-weather-app))
+- [[LIVE DEMO] Space Tourism website](https://rvbos.github.io/space-tourism/) ([GitHub Repo](https://github.com/rvbos/space-tourism))
+- [[LIVE DEMO] My Daily Planner](https://rvbos.github.io/plan-your-day/) ([GitHub Repo](https://github.com/rvbos/plan-your-day))
