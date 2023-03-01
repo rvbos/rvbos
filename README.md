@@ -1,11 +1,11 @@
 ### Hi, I’m Ola :wave:
 ---
 
-:rocket: I have been passionate about technology in business and web development since 2022, and I want to develop my career in this direction.
+:rocket: I have been passionate about technology in business and web development since 2022.
 
-:rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. You can read more on my <a href="https://www.linkedin.com/in/aleksandra-rabos/">LinkedIn</a>. Now I would like to work on the more technical side.
+:rocket: My previous professional experience consists of: business consulting, sales (in an IT product company) and projects coordination. You can read more on my <a href="https://www.linkedin.com/in/aleksandra-rabos/">LinkedIn</a>.
 
-:rocket: I have strong understanding of HTML, CSS and JavaScript. I am constantly learning. Currently I am delving into React. I am working on some projects to be added here soon.
+:rocket: I have strong understanding of HTML, CSS and JavaScript. I am constantly learning. I am working on some projects to be added here soon.
 
 :rocket: Technologies and tools I use:
 
